@@ -1,5 +1,5 @@
 ## About the project
-This repository contains the js unit tests project developed while studyng at Trybe. This project is an implementation of various functions using javaScript and/or unit tests.
+This repository contains the js unit tests project developed while studyng at Trybe. This project is an implementation of various functions using JavaScript and/or unit tests.
 
 ## Skills
 - Write unit tests using the NodeJS Jest module to verify the correct functioning of the functions;
@@ -22,7 +22,6 @@ This repository contains the js unit tests project developed while studyng at Tr
 
 </details>
 
----
 
 ### 2. Implement the test cases for the `numbers` function
 
@@ -35,7 +34,6 @@ This repository contains the js unit tests project developed while studyng at Tr
 
 </details>
 
----
 
 ### 3. Implement the `vqv` function
 
@@ -60,7 +58,6 @@ This repository contains the js unit tests project developed while studyng at Tr
 
 </details>
 
----
 
 ### 4. Implement the test cases for the `circle` function
 
@@ -74,7 +71,6 @@ This repository contains the js unit tests project developed while studyng at Tr
 
 </details>
 
----
 
 ### 5. Implement the `createStudent` function
 
@@ -92,7 +88,6 @@ This repository contains the js unit tests project developed while studyng at Tr
 
 </details>
 
----
 
 ### 6. Implement the test cases for the `productDetails` function
 
@@ -130,7 +125,7 @@ This repository contains the js unit tests project developed while studyng at Tr
 
 </details>
 
----
+
 ### 7. Implement the `calculator` and `arrayGenerator` functions
 
 <details>
@@ -180,7 +175,7 @@ This repository contains the js unit tests project developed while studyng at Tr
 
 </details>
 
----
+
 
 ### 8. Implement the `myCounter` function
 
@@ -195,7 +190,6 @@ This repository contains the js unit tests project developed while studyng at Tr
 
 </details>
 
----
 
 ### 9. Implement the test cases for the `getCharacter` function
 

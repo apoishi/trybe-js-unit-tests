@@ -1,5 +1,5 @@
 ## About the project
-This repository contains the js unit tests project developed while studyng at Trybe.This project is an implementation of various functions and/or unit tests.
+This repository contains the js unit tests project developed while studyng at Trybe. This project is an implementation of various functions using javaScript and/or unit tests.
 
 ## Skills
 - Write unit tests using the NodeJS Jest module to verify the correct functioning of the functions;
